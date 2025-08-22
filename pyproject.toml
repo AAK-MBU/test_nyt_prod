@@ -27,7 +27,8 @@ dependencies = [
     "uiautomation",
     "requests_ntlm >= 1.2.0",
     "pandas >= 2.2.3",
-    "itk-dev-shared-components == 2.9.0"
+    "itk-dev-shared-components == 2.9.0",
+    "pyautogui"
 ]
 
 [project.optional-dependencies]
